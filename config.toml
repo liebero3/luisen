@@ -1,6 +1,6 @@
-baseURL = "https://liebero3.github.io/quartz/"
-languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+baseURL = "https://liebero3.github.io/unterricht/"
+languageCode = "de-de"
+# googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
