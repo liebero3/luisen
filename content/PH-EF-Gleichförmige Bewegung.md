@@ -1,7 +1,7 @@
 ---
 title: PH-EF-Gleichförmige Bewegung
 date: 20220822
-tags: ~
+tags: "Physik, EF, gleichfoermige, Bewegung"
 ---
 
 # Die gleichförmige Bewegung

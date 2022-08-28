@@ -17,6 +17,3 @@ Beim Kürzen und Erweitern verändert man den Anteil **NICHT**! Dies erkennt man
  > Wir **erweitern** einen Bruch, indem wir Zähler und Nenner mit der gleichen Zahl multiplizieren.
  > Wir **kürzen** einen Bruch, indem wir Zähler und Nenner mit der gleichen Zahl dividieren.
  > Einen Bruch, den wir nicht weiter kürzen können, nennen wir **vollständig gekürzt**.
-
-[zurück zur Startseite des Kurses](M-6a-2223.md)
-[weiter zur nächsten Einheit - vollständig gekürzter Bruch](m-6a-2223-kuerzen_und_erweitern-uebungen.md)

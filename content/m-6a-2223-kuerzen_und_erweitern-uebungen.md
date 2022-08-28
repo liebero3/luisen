@@ -33,6 +33,3 @@ Bestimme den vollständig gekürzten Bruch. Schreibe dafür zuerst Zähler und N
 ## Weitere Übungen
 
 * LS-6 S. 16 Nr. 16, 17, 18
-
-[zurück zur Kursübersicht](M-6a-2223.md)
-[m-6a-2223-brueche_vergleichen](m-6a-2223-brueche_vergleichen.md)

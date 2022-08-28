@@ -19,6 +19,3 @@ S. 13 Nr. 11
 S. 13 Nr. 12
 S. 40 Nr. 22
 S. 40 Nr. 23
-
-[1 Funktionen](M-EF-Funktionen.md)
-[Inhaltsverzeichnis](M-EF-GK1-2223.md)

@@ -18,8 +18,3 @@ S. 38 Nr. 13
 ## Trivia
 
 Sind Abbildung und Funktion synonym? Sagen wir es so...man ist sich uneins...[Matheplanet](https://www.matheplanet.com/default3.html?call=viewtopic.php?topic=42968&ref=https%3A%2F%2Fwww.google.com%2F)
-
-### Navigation
-
-[2 Lineare und quadratische Funktionen](M-EF-lineare_und_quadr_fktn.md)
-[Inhaltsverzeichnis](M-EF-GK1-2223.md)
