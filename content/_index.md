@@ -1,26 +1,36 @@
 ---
-title: 🪴 Quartz 3.2
+title: index
+date: 20220724
+tags: "moodle, unterricht, startseite"
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+# Unterricht
 
-1. Extremely fast natural-language [[notes/search|search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+## Die wichtigsten Tags
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+* \#Mathematik
+* \#Physik
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+---
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+* \#Klasse6
+* \#EF
+* \#Q1
+* \#Q2
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+## Kurse nach Fach geordnet
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+### Mathematik
 
+* [M-EF-GK1-2223](M-EF-GK1-2223.md)
+* [M-6a-2223](M-6a-2223.md)
+* [M-Q2-GK1-2223](M-Q2-GK1-2223.md)
+
+### Physik
+
+* [PH-EF-GK1-2223](PH-EF-GK1-2223.md)
+* [PH-6a-2223](PH-6a-2223.md)
+
+### Informatik
+
+* [INF-EF-GK1-2223](INF-EF-GK1-2223.md)

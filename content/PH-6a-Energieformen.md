@@ -1,0 +1,14 @@
+---
+title: PH-6a-Energieformen
+date: 20220822
+tags: "Physik, 6, Energie, Energieformen"
+---
+
+# Energieformen
+
+Es gibt verschiedene Energieformen. Einige sind in dieser Tabelle aufgelistet:
+![assets/Pasted image 20220822121328.png](assets/Pasted%20image%2020220822121328.png)
+
+# Energiediagramme
+
+![assets/Pasted image 20220822121435.png](assets/Pasted%20image%2020220822121435.png)
