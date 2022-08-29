@@ -1,7 +1,10 @@
 ---
 title: Lieber am Luisen.
 date: 20220724
-tags: "anleitung, unterricht, startseite"
+tags:
+  - anleitung
+  - unterricht
+  - startseite
 ---
 
 ## Anleitungen
