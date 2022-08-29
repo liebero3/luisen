@@ -10,8 +10,8 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: false
-GitHubLink: https://github.com/liebero3/unterricht/
+enableGitHubEdit: true
+GitHubLink: https://github.com/liebero3/luisen/
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
@@ -21,4 +21,4 @@ page_title:
   "Unterricht"
 links:
   - link_name: Github
-    link: https://github.com/liebero3/unterricht/
+    link: https://github.com/liebero3
