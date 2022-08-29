@@ -1,7 +1,7 @@
-baseURL = "https://till-lieber.de"
+baseURL = "https://till-lieber.de/"
 languageCode = "de-de"
 # googleAnalytics = "G-XYFD95KB4J"
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",

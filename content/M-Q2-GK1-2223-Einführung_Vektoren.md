@@ -30,3 +30,6 @@ Damit wir im Kurs vergleichbare Werte erhalten, stelle den Container mit der hin
 ## Sicherung
 
 [assets/AB_Grundbegriffe Vektor.pdf](assets/AB_Grundbegriffe%20Vektor.pdf)
+
+![assets/M-Q2-GK1-2223-Einführung_Vektoren 20220829-100700.excalidraw.svg](assets/M-Q2-GK1-2223-Einf%C3%BChrung_Vektoren%2020220829-100700.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](assets/M-Q2-GK1-2223-Einf%C3%BChrung_Vektoren%2020220829-100700.excalidraw.md)%%

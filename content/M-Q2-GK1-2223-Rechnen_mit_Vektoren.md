@@ -12,6 +12,10 @@ tags: "Q2, EF, Mathematik, Vektoren, analytische, Geometrie"
 
 ## Sicherung
 
+### Eingabe von Vektoren mit dem GTR
+
+![assets/Pasted image 20220829102453.png](assets/Pasted%20image%2020220829102453.png)
+
 ### Addition von Vektoren
 
 ![assets/Pasted image 20220828213112.png](assets/Pasted%20image%2020220828213112.png)
