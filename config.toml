@@ -1,5 +1,5 @@
 baseURL = "https://till-lieber.de/"
-languageCode = "de-de"
+languageCode = "de"
 # googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = true
 disablePathToLower = true
