@@ -1,7 +1,11 @@
 ---
 title: INF-EF-2223-Logik
 date: 20220824
-tags: "Info, Informatik, Logik, EF"
+tags: 
+- Info
+- Informatik
+- Logik
+- EF
 ---
 
 # Logik

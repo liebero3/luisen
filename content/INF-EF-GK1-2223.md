@@ -1,7 +1,9 @@
 ---
 title: INF-EF-GK1-2223
 date: 20220818
-tags: "EF, Informatik"
+tags:
+- EF
+- Informatik
 ---
 
 # Inhaltsverzeichnis
