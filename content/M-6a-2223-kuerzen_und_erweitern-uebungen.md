@@ -1,6 +1,6 @@
 ---
 title: m-6a-2223-kuerzen_und_erweitern-uebungen
-date: 20220823
+date: 2022-08-23
 tags:
   - mathematik
   - 6

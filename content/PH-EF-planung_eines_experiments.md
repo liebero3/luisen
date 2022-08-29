@@ -1,6 +1,6 @@
 ---
 title: 1 - PH-EF-planung_eines_experiments
-date: 20220820
+date: 2022-08-20
 tags:
   - ef
   - physik

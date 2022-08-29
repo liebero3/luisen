@@ -1,6 +1,6 @@
 ---
 title: PH-EF-Gleichförmige Bewegung
-date: 20220822
+date: 2022-08-22
 tags:
   - physik
   - ef

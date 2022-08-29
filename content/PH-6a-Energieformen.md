@@ -1,6 +1,6 @@
 ---
 title: PH-6a-Energieformen
-date: 20220822
+date: 2022-08-22
 tags:
   - physik
   - 6

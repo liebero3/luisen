@@ -1,6 +1,6 @@
 ---
 title: M-Q2-GK1-2223-Einführung_Vektoren
-date: 20220823
+date: 2022-08-23
 tags:
   - mathematik
   - Q2

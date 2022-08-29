@@ -1,6 +1,6 @@
 ---
 title: 1.2 - M-6a-2223-kuerzen_und_erweitern
-date: 20220819
+date: 2022-08-19
 tags:
   - 6
   - mathematik

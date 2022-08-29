@@ -1,6 +1,6 @@
 ---
 title: M-Q2-GK1-2223-Rechnen_mit_Vektoren
-date: 20220828
+date: 2022-08-28
 tags:
   - Q2
   - ef

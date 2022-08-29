@@ -1,6 +1,6 @@
 ---
 title: PH-EF-GK1-2223
-date: 20220818
+date: 2022-08-18
 tags:
   - ef
   - physik

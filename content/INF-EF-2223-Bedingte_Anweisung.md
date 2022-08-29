@@ -1,6 +1,6 @@
 ---
 title: INF-EF-2223-Bedingte_Anweisung
-date: 20220829
+date: 2022-08-29
 tags:
   - informatik
   - java

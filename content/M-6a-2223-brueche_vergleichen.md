@@ -1,6 +1,6 @@
 ---
 title: Brüche Vergleichen
-date: 20220826
+date: 2022-08-26
 tags:
   - mathematik
   - 6

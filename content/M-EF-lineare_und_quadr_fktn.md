@@ -1,6 +1,6 @@
 ---
 title: 2 - Lineare und quadratische Funktionen
-date: 20220818
+date: 2022-08-18
 tags:
   - ef
   - mathematik

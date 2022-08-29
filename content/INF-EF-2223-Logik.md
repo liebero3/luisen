@@ -1,6 +1,6 @@
 ---
 title: INF-EF-2223-Logik
-date: 20220824
+date: 2022-08-24
 tags:
   - Info
   - Informatik
