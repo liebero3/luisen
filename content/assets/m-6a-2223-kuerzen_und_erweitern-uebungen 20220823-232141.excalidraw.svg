@@ -1,15 +1,15 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115.81172654405458 223.5173225901297" width="115.81172654405458" height="223.5173225901297">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115.81172654405458 223.5173225901297" width="231.62345308810916" height="447.0346451802594">
   <!-- svg-source:excalidraw -->
   
   <defs>
     <style>
       @font-face {
         font-family: "Virgil";
-        src: url("https://unpkg.com/@zsviczian/excalidraw@0.12.0-obsidian-5/dist/excalidraw-assets/Virgil.woff2");
+        src: url("https://unpkg.com/@zsviczian/excalidraw@0.12.0-obsidian-8/dist/excalidraw-assets/Virgil.woff2");
       }
       @font-face {
         font-family: "Cascadia";
-        src: url("https://unpkg.com/@zsviczian/excalidraw@0.12.0-obsidian-5/dist/excalidraw-assets/Cascadia.woff2");
+        src: url("https://unpkg.com/@zsviczian/excalidraw@0.12.0-obsidian-8/dist/excalidraw-assets/Cascadia.woff2");
       }
     </style>
   </defs>

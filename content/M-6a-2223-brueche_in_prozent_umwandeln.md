@@ -8,8 +8,8 @@ tags:
 - prozent
 ---
 ## Einstieg
-![[assets/M-6a-2223-brueche_in_prozent_umwandeln 20220831-175451.excalidraw.svg]]
-%%[[assets/M-6a-2223-brueche_in_prozent_umwandeln 20220831-175451.excalidraw.md|🖋 Edit in Excalidraw]], and the [[assets/M-6a-2223-brueche_in_prozent_umwandeln 20220831-175451.excalidraw.dark.svg|dark exported image]]%%
+![[assets/M-6a-2223-brueche_in_prozent_umwandeln 20220831-175452.excalidraw.svg]]
+%%[[assets/M-6a-2223-brueche_in_prozent_umwandeln 20220831-175452.excalidraw|🖋 Edit in Excalidraw]], and the [[assets/M-6a-2223-brueche_in_prozent_umwandeln 20220831-175451.excalidraw.dark.svg|dark exported image]]%%
 
 ## Sicherung
 Oft werden Anteile in Prozent geschrieben. Vergleiche werden dadurch einfacher. (Warum?)

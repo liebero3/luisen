@@ -19,8 +19,8 @@ Für die automatische Lenkung solcher Kräne ist es notwendig, dem Steuerungscom
 
 Das folgende Koordinatensystem könnte den Umschlagbahnhof darstellen:
 
-![[assets/M-Q2-GK1-2223- Einführung_Vektoren 20220823-224114.excalidraw.svg]]
-%%[[assets/M-Q2-GK1-2223- Einführung_Vektoren 20220823-224114.excalidraw.md|🖋 Edit in Excalidraw]]%%
+![[assets/M-Q2-GK1-2223- Einführung_Vektoren 20220823-224115.excalidraw.svg]]
+%%[[assets/M-Q2-GK1-2223- Einführung_Vektoren 20220823-224115.excalidraw|🖋 Edit in Excalidraw]]%%
 
 
 Damit wir im Kurs vergleichbare Werte erhalten, stelle den Container mit der hinteren Ecke unten links in den Koordinatenursprung. 
@@ -34,5 +34,5 @@ Damit wir im Kurs vergleichbare Werte erhalten, stelle den Container mit der hin
 
 ![[assets/AB_Grundbegriffe Vektor.pdf]]
 
-![[assets/M-Q2-GK1-2223-Einführung_Vektoren 20220829-100700.excalidraw.svg]]
-%%[[assets/M-Q2-GK1-2223-Einführung_Vektoren 20220829-100700.excalidraw.md|🖋 Edit in Excalidraw]]%%
+![[assets/M-Q2-GK1-2223-Einführung_Vektoren 20220829-100701.excalidraw.svg]]
+%%[[assets/M-Q2-GK1-2223-Einführung_Vektoren 20220829-100701.excalidraw|🖋 Edit in Excalidraw]]%%

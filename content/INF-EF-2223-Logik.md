@@ -14,8 +14,8 @@ Logik spielt eine grundlegende Rolle in vielen Bereichen der Informatik, etwa de
 ![[assets/01_Logik.pdf]]
 
 ## Lösungen
-![[assets/INF-EF-2223-Logik 20220830-081856.excalidraw.svg]]
-%%[[assets/INF-EF-2223-Logik 20220830-081856.excalidraw.md|🖋 Edit in Excalidraw]]%%
+![[assets/INF-EF-2223-Logik 20220830-081855.excalidraw.svg]]
+%%[[assets/INF-EF-2223-Logik 20220830-081855.excalidraw|🖋 Edit in Excalidraw]]%%
 ## Weiterführende Lektüre
 - [Logiktutorials der Uni Dortmund](http://gaga.cs.tu-dortmund.de:8080/LogicWeb-Tutorials/#)
 

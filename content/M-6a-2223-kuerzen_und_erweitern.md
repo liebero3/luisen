@@ -9,8 +9,8 @@ tags:
 - erweitern
 ---
 # Kürzen und erweitern
-[[drawing 2022-08-19 11.57.26.excalidraw]]
-![[drawing 2022-08-19 11.57.26.excalidraw.svg]]
+[[assets/drawing 2022-08-19 11.57.24.excalidraw]]
+![[assets/drawing 2022-08-19 11.57.24.excalidraw.svg]]
 
 Beim Kürzen und Erweitern verändert man den Anteil **NICHT**! Dies erkennt man daran, dass sich oben im Bild weder die Gesamtgröße, noch die Größe der gefärbten Fläche verändert. Man **verfeinert** oder **vergröbert** nur die Unterteilung der Flächen!
 

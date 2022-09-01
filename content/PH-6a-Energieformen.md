@@ -13,4 +13,4 @@ Es gibt verschiedene Energieformen. Einige sind in dieser Tabelle aufgelistet:
 
 # Energiediagramme
 ![[assets/Pasted image 20220822121434.png]]
-![[assets/KV 2 Fantasiegeschichte.pdf]]
+![[assets/KV 2 Fantasiegeschichte1.pdf]]
