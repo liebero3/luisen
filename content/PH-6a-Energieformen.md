@@ -9,8 +9,8 @@ tags:
 ---
 # Energieformen
 Es gibt verschiedene Energieformen. Einige sind in dieser Tabelle aufgelistet:
-![[assets/Pasted image 20220822121328.png]]
+![[assets/Pasted image 20220822121327.png]]
 
 # Energiediagramme
-![[assets/Pasted image 20220822121435.png]]
+![[assets/Pasted image 20220822121434.png]]
 ![[assets/KV 2 Fantasiegeschichte.pdf]]

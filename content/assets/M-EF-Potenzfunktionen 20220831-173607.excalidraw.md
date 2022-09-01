@@ -10,8 +10,8 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-830aa54238ef8db21cc22d4d7a95174309ccb0b1: [[assets/Pasted Image 20220831174416_959.png]]
-8deebfa8904081dc7802bb0ae524caa855499af6: [[assets/Pasted Image 20220831174449_935.png]]
+830aa54238ef8db21cc22d4d7a95174309ccb0b1: [[assets/Pasted Image 20220831174416.png]]
+8deebfa8904081dc7802bb0ae524caa855499af6: [[assets/Pasted Image 20220831174449.png]]
 
 %%
 # Drawing

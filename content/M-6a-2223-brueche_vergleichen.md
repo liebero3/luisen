@@ -22,7 +22,7 @@ tags:
 > 
 
 ## Übung
-![[assets/Pasted image 20220826122236.png]]
+![[assets/Pasted image 20220826122234.png]]
 Aufgaben a), b), f), g)
 ![[assets/m-6a-2223-brueche_vergleichen 20220826-123102.excalidraw.svg]]
 %%[[assets/m-6a-2223-brueche_vergleichen 20220826-123102.excalidraw.md|🖋 Edit in Excalidraw]]%%

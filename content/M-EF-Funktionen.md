@@ -8,7 +8,7 @@ tags:
 ---
 # 1 Funktionen
 
-![[Pasted image 20220818224706.png]]
+![[assets/Pasted image 20220818224705.png]]
 [[drawing 2022-08-19 08.23.13.excalidraw]]
 ![[drawing 2022-08-19 08.23.13.excalidraw.svg]]
 

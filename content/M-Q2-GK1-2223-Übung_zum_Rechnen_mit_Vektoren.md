@@ -8,15 +8,15 @@ tags:
 - Vektoren
 ---
 # Übungen
-![[assets/Pasted image 20220830214712.png]]
+![[assets/Pasted image 20220830214713.png]]
 Aufgabe 1 b)d)
 Aufgabe 2 b)d)f)
 
-![[assets/Pasted image 20220830214832.png]]
+![[assets/Pasted image 20220830214831.png]]
 Aufgabe 5 a)b)c)
 
-![[assets/Pasted image 20220830214910.png]]
+![[assets/Pasted image 20220830214911.png]]
 Aufgabe 8 a)c)d)
 
-![[assets/Pasted image 20220830215002.png]]
+![[assets/Pasted image 20220830215003.png]]
 Aufgabe 11 a)c)

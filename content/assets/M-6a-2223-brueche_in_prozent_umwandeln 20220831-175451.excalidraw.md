@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-a9ad20fe3855f9aa6d34e9214fb9e8bf8e758e76: [[assets/Pasted Image 20220831175502_939.png]]
+a9ad20fe3855f9aa6d34e9214fb9e8bf8e758e76: [[assets/Pasted Image 20220831175502.png]]
 
 %%
 # Drawing

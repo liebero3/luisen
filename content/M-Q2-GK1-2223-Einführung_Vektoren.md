@@ -15,7 +15,7 @@ Für die Verladung von Containern hat man spezielle Kräne entwickelt, die auf G
 
 Für die automatische Lenkung solcher Kräne ist es notwendig, dem Steuerungscomputer die Informationen, die zu einer Verladung nötig sind, in mathematischer Form zu geben.
 
-![[assets/Pasted image 20220823221611.png]]
+![[assets/Pasted image 20220823221612.png]]
 
 Das folgende Koordinatensystem könnte den Umschlagbahnhof darstellen:
 

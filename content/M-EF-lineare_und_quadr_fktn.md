@@ -9,7 +9,7 @@ tags:
 - quadratisch
 ---
 # 2 Lineare und quadratische Funktionen
-![[Pasted image 20220819071835.png]]
+![[assets/Pasted image 20220819071834.png]]
 
 ## Übungen
 S. 12 Nr. 1 a), c), e)
