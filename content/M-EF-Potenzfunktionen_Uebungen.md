@@ -1,3 +1,4 @@
+
 ---
 title: "M-EF-Potenzfunktionen"
 date: "2022-09-01"
