@@ -14,5 +14,5 @@ tags:
 - Geiger-Müller-Zählrohre haben relativ lange Totzeiten von ca. $100\, \micro s$.
 
 ### Dosimetrie und Strahlenwirkung
-- natürliche radioaktive Stoffe zum Zwecek der Nutzung....wenn die Ortsdosisleistung des jeweiligen Stoffes 1 $\micro S/h$ in 0,1 m Abstand.
+- natürliche radioaktive Stoffe zum Zwecek der Nutzung....wenn die Ortsdosisleistung des jeweiligen Stoffes 1 $\mu S/h$ in 0,1 m Abstand.
 - 
