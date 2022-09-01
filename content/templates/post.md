@@ -1,9 +1,5 @@
 ---
 title: "{{title}}"
-date:
-  ? date: ~
-  : ~
-tags: ~
+date: {{date}}
+tags:
 ---
-
-

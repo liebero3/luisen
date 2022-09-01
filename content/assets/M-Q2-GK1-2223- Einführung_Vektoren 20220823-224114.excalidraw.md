@@ -1,13 +1,13 @@
 ---
-excalidraw-plugin: parsed
-tags:
-  - excalidraw
----
 
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
-# Text Elements
 
+# Text Elements
 breit = x_2
 hoch = x_3
 lang = x_1 ^lz1Ol4Sb
@@ -31,10 +31,8 @@ G'(-2|6,5|4)
 H'(-2|4,5|4) ^vDe021g8
 
 %%
-
 # Drawing
-
-````json
+```json
 {
 	"type": "excalidraw",
 	"version": 2,
@@ -14787,6 +14785,5 @@ H'(-2|4,5|4) ^vDe021g8
 	},
 	"files": {}
 }
-````
-
+```
 %%

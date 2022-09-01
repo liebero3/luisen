@@ -1,24 +1,24 @@
 ---
-excalidraw-plugin: parsed
-tags:
-  - excalidraw
----
 
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
+
 # Text Elements
+- 64 = 8*8 = 2*4*2*4 = 2*2*2*2*2*2=2^6
 
-* 64 = 8*8 = 2*4*2*4 = 2*2*2*2*2\*2=2^6
 
-* 120 = 2*60 = 2*2*30 = 2*2*2*15 = 2*2*2*3*5 = 2^3*3*5
+- 120 = 2*60 = 2*2*30 = 2*2*2*15 = 2*2*2*3*5 = 2^3*3*5
 
-* 36 = 6*6 = 2*3*2*3 = 2*2*3*3 = 2^2*3^2 = (2\*3)^2 ^wzaz1MdU
+
+- 36 = 6*6 = 2*3*2*3 = 2*2*3*3 = 2^2*3^2 = (2*3)^2 ^wzaz1MdU
 
 %%
-
 # Drawing
-
-````json
+```json
 {
 	"type": "excalidraw",
 	"version": 2,
@@ -82,6 +82,5 @@ tags:
 	},
 	"files": {}
 }
-````
-
+```
 %%

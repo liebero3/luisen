@@ -1,22 +1,20 @@
 ---
-excalidraw-plugin: parsed
-tags:
-  - excalidraw
----
 
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
 
 # Text Elements
 
 # Embedded files
-
-e17f8461208ada805862ec2244e46d5d4907b44c: [assets/Pasted Image 20220829100712_283.png](Pasted%20Image%2020220829100712_283.png)
+e17f8461208ada805862ec2244e46d5d4907b44c: [[assets/Pasted Image 20220829100712_283.png]]
 
 %%
-
 # Drawing
-
-````json
+```json
 {
 	"type": "excalidraw",
 	"version": 2,
@@ -2637,6 +2635,5 @@ e17f8461208ada805862ec2244e46d5d4907b44c: [assets/Pasted Image 20220829100712_28
 	},
 	"files": {}
 }
-````
-
+```
 %%

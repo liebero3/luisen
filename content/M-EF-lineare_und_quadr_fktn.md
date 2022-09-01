@@ -1,20 +1,17 @@
 ---
-title: 2 - Lineare und quadratische Funktionen
-date: 2022-08-18
-tags:
-  - ef
-  - mathematik
-  - funktionen
-  - linear
-  - quadratisch
+title: "2 - Lineare und quadratische Funktionen"
+date: "2022-08-18"
+tags: 
+- ef
+- mathematik
+- funktionen
+- linear
+- quadratisch
 ---
-
 # 2 Lineare und quadratische Funktionen
-
-![Pasted image 20220819071835.png](assets/Pasted%20image%2020220819071835.png)
+![[Pasted image 20220819071835.png]]
 
 ## Übungen
-
 S. 12 Nr. 1 a), c), e)
 S. 13 Nr. 5 a), f)
 S. 13 Nr. 6 a), c)
