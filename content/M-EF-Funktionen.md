@@ -8,9 +8,9 @@ tags:
 ---
 # 1 Funktionen
 
-![[assets/Pasted image 20220818224705.png]]
-[[assets/drawing 2022-08-19 08.23.14.excalidraw]]
-![[assets/drawing 2022-08-19 08.23.14.excalidraw.svg]]
+![[assets/Pasted image 20220818224704.png]]
+[[assets/drawing 2022-08-19 08.23.13.excalidraw]]
+![[assets/drawing 2022-08-19 08.23.13.excalidraw.svg]]
 
 ## Übungen
 S. 10 Nr. 1-3
