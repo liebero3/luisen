@@ -26,3 +26,7 @@ tags:
 Aufgaben a), b), f), g)
 ![[assets/m-6a-2223-brueche_vergleichen 20220826-123103.excalidraw.svg]]
 %%[[assets/m-6a-2223-brueche_vergleichen 20220826-123103.excalidraw|🖋 Edit in Excalidraw]]%%
+
+## Übung
+![[assets/M-6a-2223-brueche_vergleichen 20220902-111130.excalidraw.svg]]
+%%[[assets/M-6a-2223-brueche_vergleichen 20220902-111130.excalidraw.md|🖋 Edit in Excalidraw]], and the [[assets/M-6a-2223-brueche_vergleichen 20220902-111130.excalidraw.dark.svg|dark exported image]]%%
