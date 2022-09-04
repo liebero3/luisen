@@ -15,10 +15,10 @@ GitHubLink: https://github.com/liebero3/luisen/
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Hier finden sich alle Notizen, die so im Zusammenhang mit Unterricht, der IT am Luisen und
+  der Seite hier als solcher entstehen.
 page_title:
-  "Lieber..."
+  "Lieber"
 links:
   - link_name: Github
     link: https://github.com/liebero3

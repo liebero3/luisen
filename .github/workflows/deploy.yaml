@@ -37,3 +37,4 @@ jobs:
           publish_dir: ./public
           publish_branch: master  # deploying branch
           cname: till-lieber.de # quartz.jzhao.xyz
+          

@@ -1,5 +1,5 @@
 ---
-title: Lieber...
+title: Lieber
 date: "2022-08-24"
 tags: 
 - anleitung
@@ -9,6 +9,8 @@ tags:
 
 # ... am Luisen.
 ## Anleitungen
+- [[Anleitungen-keycloak|Anleitungen für die IT-Plattformen des Luisen]]
+- [[Anleitungen-quartz|Quartz - erstelle aus deinem Obsidian-Vault eine Website wie diese]]
 
 ## Unterricht
 ### Mathematik
