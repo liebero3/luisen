@@ -1,6 +1,6 @@
 ---
 title: "Anleitungen-quartz"
-date: "2022-09-03"
+date: "2022-09-04"
 tags:
 - quartz
 - obsidian
@@ -29,10 +29,6 @@ Dort aktivierst du GitHub Pages. Im screenshot oben habe ich eine eigene Domain 
 > **WICHTIG:**
 > Bei Build and deployment muss unter Branch **UNBEDINGT** "master" und "/root" ausgewählt werden! Nur dann kann es funktionieren.
 > Mir fiel auf, dass master erst nach dem ersten push auswählbar war. Eventuell war ich aber auch zu blöd...
-
-
-
-
 
 Um das regelmäßige Arbeiten später zu vereinfachen, sollte man das geforkte repository (also das, das sich im eigenen GitHub Account befindet) nun clonen um eine Kopie auf dem lokalen Rechner zu besitzen. Für die vollkommen unbedarften geht dies sehr einfach mit [VS-Code](https://code.visualstudio.com/). Man öffnet dort ein neue Fenster
 ![[Pasted image 20220904105828.png]]
@@ -82,5 +78,33 @@ Wenn es ganz, ganz einfach sein soll, dann startet man einfach einen neuen Vault
 
 Damit Hugo (der static-site generator, den Quartz nutzt um den Vault zu veröffentlichen) mit den Notizen in Obsidian klar kommt, gibt es ein paar Sachen zu beachten.
 
-#### Front Matter:
-Hugo benötigt ein Front Matter. Dies ist ein kleiner Textbereich am Anfang einer Markdowndatei
+### Front Matter:
+Hugo benötigt ein Front Matter. Dies ist ein kleiner Textbereich am Anfang einer Markdowndatei. Genauere Informationen darüber erfährt man auf der [Erklärungsseite von Hugo](https://gohugo.io/content-management/front-matter/). Mein Front Matter sieht so aus: (In diesem Fall das Front Matter genau dieser Seite)
+
+```
+---
+title: "Anleitungen-quartz"
+date: "2022-09-03"
+tags:
+- quartz
+- obsidian
+- hosting
+---
+```
+
+Beim Titel und Datum ist es zwingend erforderlich, dass man Anführungszeichen setzt, beim Datum ist auf das Format YYYY-MM-DD zu achten.
+
+Bei den Tags muss eine yaml-Liste genutzt werden, wenn es mehr als ein Tag ist. (Das "-" und neue Zeile).
+
+> **Wichtig:**
+> Bevor du jetzt drauf los legst: Es gibt noch einige wichtige Einstellungen in Obsidian, ohne die Links nicht konsistent dargestellt werden.
+
+### Einen bestehenden Vault mit Quartz veröffentlichen
+Grundsätzlich ist das extrem einfach:
+
+Man kopiert den Inhalt eines bestehenden Vaults in den Ordner `content`, achtet darauf, dass es eine linked mention von `_index.md` gibt und es kann losgehen.
+
+Probleme gab es bei mir nur mit den bereits bestehenden pasted images und excalidraw Dateien, auch noch nachdem ich die oben schon erwähnten Einstellungen in Obsidian getätigt habe.
+
+### Einstellungen in Obsidian
+To be continued...
