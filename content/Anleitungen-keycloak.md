@@ -1,6 +1,6 @@
 ---
 title: "Anleitungen zu den digitalen Plattformen am Luisen"
-date: "2022-09-06"
+date: "2022-09-05"
 tags:
 - anleitung
 - keylcoak
