@@ -2,6 +2,10 @@
 title: "Wer baut die coolste Kettenreaktion?"
 date: "2022-09-05"
 tags:
+- physik
+- 6
+- kettenreaktion
+- energie
 ---
 
 ## Beispiel einer extrem aufwändigen Kettenreaktion
