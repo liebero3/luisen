@@ -9,6 +9,7 @@ tags:
 ---
 
 ## Beispiel einer extrem aufwändigen Kettenreaktion
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HUyK-i3dKHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Aufgabe

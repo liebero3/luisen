@@ -8,10 +8,10 @@ tags:
 - bewegung
 ---
 ## Aufnahme der Bewegung
-![[murmel.m4v]]
+![[assets/murmel.m4v]]
 ## Messwerte
 Hier der Link zu einem Teil der Messwerte:
-![[Murmel-tisch-ha.csv]]
+![[assets/Murmel-tisch-ha.csv]]
 Hier die Messwerte zur Ansicht:
 |Zeit (in s)|x (in m)|
 |-----------|--------|
