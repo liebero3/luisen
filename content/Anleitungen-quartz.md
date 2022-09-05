@@ -107,4 +107,15 @@ Man kopiert den Inhalt eines bestehenden Vaults in den Ordner `content`, achtet 
 Probleme gab es bei mir nur mit den bereits bestehenden pasted images und excalidraw Dateien, auch noch nachdem ich die oben schon erwähnten Einstellungen in Obsidian getätigt habe.
 
 ### Einstellungen in Obsidian
-To be continued...
+Die Anleitung des des Entwicklers befindet sich hier: [LINK](https://quartz.jzhao.xyz/notes/obsidian/).
+
+Kurz zusammengefasst müssen folgende Einstellungen vorgenommen werden:
+
+![[assets/Pasted image 20220905093720.png]]
+
+Unter `Settings->Files & Links` muss `Automatically update internal links` aktiviert sein und als `New link format` muss **absolute path in vault** ausgewählt sein.
+
+> `Automatically update internal links` ist insbesondere dann sehr wichtig, wenn man einen vorhandenen Vault in das Verzeichnis `content` kopiert und man vorher nicht **absolute path in vault** aktiviert hatte.
+
+Prinzipiell sollte es jetzt gehen. Bei mir war das leider nicht der Fall und ich musste innerhalb von Obsidian alle eingebundenen Dateien (Bilder, excalidraw usw.) einmal händisch umbenennen, damit durch die Einstellung `Automatically update internal links` alle Links nochmal erneuert werden. Danach funktionierte es dann aber! Neue Einbettungen gingen von Beginn an.
+
