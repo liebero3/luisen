@@ -14,27 +14,27 @@ Solltest du es so hingegen so einfach wie möglich haben wollen, dann kannst du 
 Ich selbst habe mich an die [Anleitung des Entwicklers](https://quartz.jzhao.xyz/) von Quartz gehalten. Dort ist alles erklärt und ich würde es unbedingt als Nachschlagewerk empfehlen, wenn hier etwas nicht sofort klar wird. Ich fand es nur nicht ganz linear aufgebaut, ich musste andauernd hin und her springen während der Ersteinrichtung.
 
 ## Voraussetzung
-Da wir bei github pages hosten wollen, benötigst du naheliegender Weise einen [github](https://github.com) account. Weiterhin benötigst du natürlich [obsidian](https://obsidian.md), da wir einen obsidian-Vault veröffentlichen wollen.
+Da wir bei GitHub Pages hosten wollen, benötigst du naheliegender Weise einen [github](https://github.com) Account. Weiterhin benötigst du natürlich [obsidian](https://obsidian.md), da wir einen Obsidian-Vault veröffentlichen wollen.
 
 
 ## Installation
-Zuerst gehst du zu Jacky Zhaos [Quartzrepository](https://github.com/jackyzha0/quartz). Dort klickst du auf **"Fork"**. (Leute mit Ahnung von github usw. benötigen diese Anleitung nicht, deswegen werde ich hier vieles sehr vereinfacht darstellen)
+Zuerst gehst du zu Jacky Zhaos [Quartz Repository](https://github.com/jackyzha0/quartz). Dort klickst du auf **"Fork"**. (Leute mit Ahnung von GitHub usw. benötigen diese Anleitung nicht, deswegen werde ich hier vieles sehr vereinfacht darstellen)
 ![[assets/Pasted image 20220904103759.png]]
 
-Im Browser gehst du nun zu dem neuen repository in deinem Account und klickst auf Settings->Pages:
+Im Browser gehst du nun zu dem neuen Repository in deinem Account und klickst auf Settings->Pages:
 ![[assets/Pasted image 20220904112832.png]]
 
-Dort aktivierst du GitHub Pages. Im screenshot oben habe ich eine eigene Domain gewählt, das ist aber nicht erforderlich.
+Dort aktivierst du GitHub Pages. Im Screenshot oben habe ich eine eigene Domain gewählt, das ist aber nicht erforderlich.
 
 > **WICHTIG:**
 > Bei Build and deployment muss unter Branch **UNBEDINGT** "master" und "/root" ausgewählt werden! Nur dann kann es funktionieren.
 > Mir fiel auf, dass master erst nach dem ersten push auswählbar war. Eventuell war ich aber auch zu blöd...
 
-Um das regelmäßige Arbeiten später zu vereinfachen, sollte man das geforkte repository (also das, das sich im eigenen GitHub Account befindet) nun clonen um eine Kopie auf dem lokalen Rechner zu besitzen. Für die vollkommen unbedarften geht dies sehr einfach mit [VS-Code](https://code.visualstudio.com/). Man öffnet dort ein neue Fenster
+Um das regelmäßige Arbeiten später zu vereinfachen, sollte man das geforkte Repository (also das, das sich im eigenen GitHub Account befindet) nun clonen um eine Kopie auf dem lokalen Rechner zu besitzen. Für die vollkommen unbedarften geht dies sehr einfach mit [VS-Code](https://code.visualstudio.com/). Man öffnet dort ein neue Fenster
 ![[assets/Pasted image 20220904105827.png]]
-und geht anschließend in der vertikalen Menüleiste auf den **"git"** button und wählt **"Repository klonen"**.
+und geht anschließend in der vertikalen Menüleiste auf den **"git"** Button und wählt **"Repository klonen"**.
 ![[assets/Pasted image 20220904110201.png]]
-Hier muss man in einem Dialog dann seine Zugangsdaten für GitHub angeben (und ein paar weitere Informationen) und später das gewünschte repositor. Anschließend ist alles eingerichtet.
+Hier muss man in einem Dialog dann seine Zugangsdaten für GitHub angeben (und ein paar weitere Informationen) und später das gewünschte Repository. Anschließend ist alles eingerichtet.
 
 Die Struktur des Ordners sieht innerhalb von VS-Code wie folgt aus:
 ![[assets/Pasted image 20220904110708.png]]
@@ -76,10 +76,10 @@ Hier sollte nach dem ersten push nochmal nachgesehen werden, ob es wie oben besc
 ## Content erstellen/Vault vorbereiten
 Wenn es ganz, ganz einfach sein soll, dann startet man einfach einen neuen Vault im Verzeichnis `content`. Die Unterordner `privat` und `template` sollte man tunlichst nicht löschen. Auf Templates komme ich gleich nochmal zu sprechen.
 
-Damit Hugo (der static-site generator, den Quartz nutzt um den Vault zu veröffentlichen) mit den Notizen in Obsidian klar kommt, gibt es ein paar Sachen zu beachten.
+Damit Hugo (der static site generator, den Quartz nutzt um den Vault zu veröffentlichen) mit den Notizen in Obsidian klar kommt, gibt es ein paar Sachen zu beachten.
 
 ### Front Matter:
-Hugo benötigt ein Front Matter. Dies ist ein kleiner Textbereich am Anfang einer Markdowndatei. Genauere Informationen darüber erfährt man auf der [Erklärungsseite von Hugo](https://gohugo.io/content-management/front-matter/). Mein Front Matter sieht so aus: (In diesem Fall das Front Matter genau dieser Seite)
+Hugo benötigt ein Front Matter. Dies ist ein kleiner Textbereich am Anfang einer Markdown Datei. Genauere Informationen darüber erfährt man auf der [Erklärungsseite von Hugo](https://gohugo.io/content-management/front-matter/). Mein Front Matter sieht so aus: (In diesem Fall das Front Matter genau dieser Seite)
 
 ```
 ---
