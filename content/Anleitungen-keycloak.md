@@ -18,7 +18,7 @@ Am Luisen nutzen wir eine IAM (Identity and Access Management) Software, damit w
 
 Im späteren Verlauf ergibt es momentan noch einen Sinn, wenn man bei der Plattform `LogineoNRW LMS` beginnt, da diese gerade noch am meisten *rumzickt*.
 
-## Anleitungen zur Nutzung der einzelnden Plattformen
+## Anleitungen zur Nutzung der einzelnen Plattformen
 Die Anleitungen zu den einzelnen Plattformen findest du hier:
 - [[Anleitungen-nextcloud|Nextcloud]]
 - [[Anleitungen-webuntis|Webuntis]]
@@ -32,7 +32,7 @@ Egal für welche der drei Plattformen du dich entschieden hast (bitte einfach hi
 Hier gibst du die dir mitgeteilten Login Daten ein. Sollte dies auf analogem Weg geschehen sein, so gilt für das System des Passworts folgendes (da es manchmal nicht eindeutig erkennbar ist):
 
 ![[assets/Pasted image 20220905215456.png]]
-Sollte es digital übermittelt worden sein, bietet es sich an, die Daten einfach per copy und paste einzufügen, dann sind Fehler beim Abschreiben ausgeschlossen.
+Sollte es digital übermittelt worden sein, bietet es sich an, die Daten einfach per copy & paste einzufügen, dann sind Fehler beim Abschreiben ausgeschlossen.
 
 Nach erfolgreicher Eingabe der Login Daten wirst du aufgefordert, dir ein neues Passwort (zweimal) zu geben, anschließend bist du eingeloggt.
 
@@ -42,11 +42,29 @@ Im folgenden wird der Login per Browser und die Einrichtung der App beschrieben.
 ### Login im Browser
 Gehe bitte zur URL [webuntis.luisen-gymnasium.de](http://webuntis.luisen-gymnasium.de) (dies ist nur eine Weiterleitung auf die tatsächliche URL [https://ajax.webuntis.com/WebUntis/?school=luisen-gym-duesseldorf](https://ajax.webuntis.com/WebUntis/?school=luisen-gym-duesseldorf)).
 
-@TODO
+![[assets/Pasted image 20220906185540.png]]
+
+Dort klickst du auf den **keycloak** Button und logst dich mit deinen Zugangsdaten ein. 
+(Im Falle, dass dies der erste Login überhaupt in **keycloak** ist, siehe: **# Initialer Login**)
 
 Welche Funktionen Webuntis bietet und welche davon wir in der Schule nutzen wollen, erfährst du in der Anleitung zu [[Anleitungen-webuntis|Webuntis]].
 
 ### Einrichtung der App
+Es gibt für Webuntis eine App. Diese ist sehr praktisch um während der Schulzeit aktuelle Informationen über Vertretungen und Unterrichtsausfall zu erhalten. Zwingend erforderlich ist die Installation nicht, der Funktionsumfang der Website ist gerade für Lehrkräfte auch deutlich größer, in gewissen Situationen ist sie aber deutlich praktischer.
+
+iOS: [webuntis](https://apps.apple.com/de/app/untis-mobile/id926186904)
+
+Android: [webuntis](https://play.google.com/store/apps/details?id=com.grupet.web.app&hl=de&gl=US)
+
+Um die App einzurichten musst du (mehr oder weniger) zwingend den Login mit QR-Code wählen. Dafür logst du dich wie oben erklärt über den Browser ein und klickst anschließend unten links auf deinen Benutzernamen. 
+
+![[assets/Pasted image 20220906190811.png]]
+
+Anschließend gehst du oben auf **Freigaben** und dann auf **Anzeigen**.
+
+![[assets/Pasted image 20220906191044.png]]
+
+Den dann angezeigten QR-Code musst du mit der Webuntis-App einscannen und die App ist verbunden.
 
 ## LogineoNRW LMS
 Im folgenden wird der Login per Browser und die Einrichtung der App beschrieben.
@@ -55,7 +73,7 @@ Im folgenden wird der Login per Browser und die Einrichtung der App beschrieben.
 Gehe bitte zur URL [lms.luisen-gymnasium.de](http://lms.luisen-gymnasium.de) (dies ist nur eine Weiterleitung auf die tatsächliche URL der Landesplattform [https://164501.logineonrw-lms.de](https://164501.logineonrw-lms.de)).
 
 Dort klickst du auf den **keycloak** Button und logst dich mit deinen Zugangsdaten ein. 
-(Im Falle, dass dies der erste Login überhaupt in **keycloak** ist, siehe: **# Initialer Login**.
+(Im Falle, dass dies der erste Login überhaupt in **keycloak** ist, siehe: **# Initialer Login**)
 ![[assets/Pasted image 20220906081132.png]]
 
 Welche Funktionen LogineoNRW LMS (Moodle) bietet und welche davon wir in der Schule nutzen wollen, erfährst du in der Anleitung zu [[Anleitungen-moodle|LogineoNRW LMS (Moodle)]].

@@ -5,6 +5,7 @@ tags:
 - quartz
 - obsidian
 - hosting
+- anleitung
 ---
 
 Solltest du deinen Obsidian-Vault nicht bei GitHub Pages hosten wollen, dann solltest du dir dringend diese [Anleitung von Brandon Boswell](https://brandonkboswell.com/blog/Publishing-your-Obsidian-Vault-Online-with-Quartz/) ansehen. Das erfordert allerdings deutlich mehr Fachwissen als das, was ich hier vorstellen möchte.

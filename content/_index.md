@@ -28,3 +28,4 @@ tags:
 
 ## Sonstiges
 - [[Fachkunde_Strahlenschutz]]
+- [[Informatik-AG]]
