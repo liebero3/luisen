@@ -41,6 +41,7 @@ Im folgenden wird der Login per Browser und die Einrichtung der App beschrieben.
 
 ### Login im Browser
 Gehe bitte zur URL [webuntis.luisen-gymnasium.de](http://webuntis.luisen-gymnasium.de) (dies ist nur eine Weiterleitung auf die tatsächliche URL [https://ajax.webuntis.com/WebUntis/?school=luisen-gym-duesseldorf](https://ajax.webuntis.com/WebUntis/?school=luisen-gym-duesseldorf)).
+
 @TODO
 
 Welche Funktionen Webuntis bietet und welche davon wir in der Schule nutzen wollen, erfährst du in der Anleitung zu [[Anleitungen-webuntis|Webuntis]].
@@ -54,7 +55,7 @@ Im folgenden wird der Login per Browser und die Einrichtung der App beschrieben.
 Gehe bitte zur URL [lms.luisen-gymnasium.de](http://lms.luisen-gymnasium.de) (dies ist nur eine Weiterleitung auf die tatsächliche URL der Landesplattform [https://164501.logineonrw-lms.de](https://164501.logineonrw-lms.de)).
 
 Dort klickst du auf den **keycloak** Button und logst dich mit deinen Zugangsdaten ein. 
-(Im Falle, dass dies der erste Login überhaupt in **keycloak** ist, siehe: [[#Initialer Login]]).
+(Im Falle, dass dies der erste Login überhaupt in **keycloak** ist, siehe: **# Initialer Login**.
 ![[assets/Pasted image 20220906081132.png]]
 
 Welche Funktionen LogineoNRW LMS (Moodle) bietet und welche davon wir in der Schule nutzen wollen, erfährst du in der Anleitung zu [[Anleitungen-moodle|LogineoNRW LMS (Moodle)]].
@@ -63,6 +64,7 @@ Welche Funktionen LogineoNRW LMS (Moodle) bietet und welche davon wir in der Sch
 Es gibt für Moodle (Das Open Source Produkt, welches LogineoNRW LMS verwendet) eine App. Diese ist nicht zwingend erforderlich, ermöglicht aber den Erhalt von Push-Nachrichten, falls bspw. neue Aufgaben erscheinen.
 
 iOS: [Moodle](https://apps.apple.com/de/app/moodle/id633359593)
+
 Android: [Moodle](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile&hl=de&gl=US)
 
 >**Wichtig:**
@@ -73,7 +75,7 @@ Um die App mit dem Account zu verbinden, musst du dich im Browser wie oben besch
 ![[assets/Pasted image 20220906082822.png]]
 
 
->Im Profil befindet sich ganz unten der Bereich **Mobile App**, dort klickst du auf **QR-Code anzeigen** und scannst den erscheinenden QR-Code nun ==**MIT DER MOODLE-APP**== ein.
+>Im Profil befindet sich ganz unten der Bereich **Mobile App**, dort klickst du auf **QR-Code anzeigen** und scannst den erscheinenden QR-Code nun **MIT DER MOODLE-APP** ein.
 
 ![[assets/moodle-app.png]]
 
@@ -86,17 +88,18 @@ Im folgenden wird der Login per Browser und die Einrichtung der App beschrieben.
 Gehe bitte zur URL [nc.luisen-gymnasium.de](http://nc.luisen-gymnasium.de) (dies ist nur eine Weiterleitung auf die tatsächliche URL [https://nc.luisen.collox.de](https://nc.luisen.collox.de)).
 
 Dort logst du dich mit deinen Zugangsdaten für **keycloak** ein. 
-(Im Falle, dass dies der erste Login überhaupt in **keycloak** ist, siehe: [[#Initialer Login]]).
+(Im Falle, dass dies der erste Login überhaupt in **keycloak** ist, siehe: **# Initialer Login**).
 
 Welche Funktionen die Nextcloud bietet und welche davon wir in der Schule nutzen wollen, erfährst du in der Anleitung zur [[Anleitungen-nextcloud|Nextcloud]].
 
 ### Einrichtung der App
 Für die Funktionen, die wir am Luisen verwenden benötigen wir zwei Apps:
 
-==**iOS:**==
+**iOS:**
 - [Nextcloud App](https://apps.apple.com/de/app/nextcloud/id1125420102)
 - [Nextcloud Talk App](https://apps.apple.com/de/app/nextcloud-talk/id1296825574)
-==**Android:**==
+
+**Android:**
 - [Nextcloud App](https://play.google.com/store/apps/details?id=com.nextcloud.client&hl=de&gl=US)
 - [Nextcloud Talk App](https://play.google.com/store/apps/details?id=com.nextcloud.talk2&hl=de&gl=US)
 
