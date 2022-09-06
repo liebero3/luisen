@@ -73,8 +73,16 @@ Im folgenden wird der Login per Browser und die Einrichtung der App beschrieben.
 Gehe bitte zur URL [lms.luisen-gymnasium.de](http://lms.luisen-gymnasium.de) (dies ist nur eine Weiterleitung auf die tatsächliche URL der Landesplattform [https://164501.logineonrw-lms.de](https://164501.logineonrw-lms.de)).
 
 Dort klickst du auf den **keycloak** Button und logst dich mit deinen Zugangsdaten ein. 
-(Im Falle, dass dies der erste Login überhaupt in **keycloak** ist, siehe: **# Initialer Login**)
+
 ![[assets/Pasted image 20220906081132.png]]
+
+>**Wichtig:**
+>Es sind 2 Spezialfälle zu beachten:
+>
+>Im Falle, dass dies der erste Login überhaupt in **keycloak** ist, siehe: **# Initialer Login**
+>
+>Im Falle, dass es der erste Login in **LogineoNRW LMS** ist, erscheint nach erfolgreichem Login, dass eine Mail mit einem Bestätigungslink an eine dir unbekannte Mailadresse versandt wurde.  **Das ist alles korrekt! Du wirst dann in den nächsten Stunden von einem Lehrer freigeschaltet.**
+
 
 Welche Funktionen LogineoNRW LMS (Moodle) bietet und welche davon wir in der Schule nutzen wollen, erfährst du in der Anleitung zu [[Anleitungen-moodle|LogineoNRW LMS (Moodle)]].
 
