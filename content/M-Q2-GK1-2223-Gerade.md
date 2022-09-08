@@ -26,5 +26,5 @@ tags:
 Im Bild oben kann man sowohl den Vektor $\vec{p}$, als auch den Vektor $\vec{x}$ als Stützvektor nehmen!
 
 ## Übung
-
-![[assets/aufstellen_von_geradengleichungen.pdf]]
+![[assets/M-Q2-GK1-2223-Gerade 20220908-094839.excalidraw.svg]]
+%%[[assets/M-Q2-GK1-2223-Gerade 20220908-094839.excalidraw.md|🖋 Edit in Excalidraw]], and the [[assets/M-Q2-GK1-2223-Gerade 20220908-094839.excalidraw.dark.svg|dark exported image]]%%
