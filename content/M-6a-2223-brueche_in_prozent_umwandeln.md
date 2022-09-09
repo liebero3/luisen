@@ -16,11 +16,11 @@ Oft werden Anteile in Prozent geschrieben. Vergleiche werden dadurch einfacher. 
 
 **Merke:**
 > Anteile werden häufig in der _ _ _ _ _ _ _ _ _ _    angegeben.
-> $1\,\%$ (gesprochen: "Ein Prozent") ist dabei eine andere _ _ _ _ _ _ _ _ für $\frac{1}{100}$. 
+> $1\%$ (gesprochen: "Ein Prozent") ist dabei eine andere _ _ _ _ _ _ _ _ für $\frac{1}{100}$. 
 > Möchte ich einen Bruch in Prozent angeben, so muss ich ihn so       _ _ _ _ _ _ _ _ , dass im Nenner "100" steht.
 > Bsp.:
 > Gib den Anteil $\frac{1}{4}$ in Prozent an:
-> $\frac{1}{4}=\frac{25}{100}=100\,\%$
+> $\frac{1}{4}=\frac{25}{100}=25\,\%$
 
 Lösungswörter: erweitern, Prozentschreibweise, Schreibweise
 
