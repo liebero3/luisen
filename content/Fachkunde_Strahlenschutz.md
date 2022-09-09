@@ -15,4 +15,6 @@ tags:
 
 ### Dosimetrie und Strahlenwirkung
 - natürliche radioaktive Stoffe zum Zwecek der Nutzung....wenn die Ortsdosisleistung des jeweiligen Stoffes 1 $\mu S/h$ in 0,1 $m$ Abstand.
-- Test
+- Test2
+- what
+- 
