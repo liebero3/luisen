@@ -30,3 +30,7 @@ Aufgaben a), b), f), g)
 ## Übung
 ![[assets/M-6a-2223-brueche_vergleichen 20220902-111130.excalidraw.svg]]
 %%[[assets/M-6a-2223-brueche_vergleichen 20220902-111130.excalidraw.md|🖋 Edit in Excalidraw]], and the [[assets/M-6a-2223-brueche_vergleichen 20220902-111130.excalidraw.dark.svg|dark exported image]]%%
+
+
+![[assets/M-6a-2223-brueche_vergleichen 20220909-111323.excalidraw.svg]]
+%%[[assets/M-6a-2223-brueche_vergleichen 20220909-111323.excalidraw.md|🖋 Edit in Excalidraw]], and the [[assets/M-6a-2223-brueche_vergleichen 20220909-111323.excalidraw.dark.svg|dark exported image]]%%
