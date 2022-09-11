@@ -69,6 +69,7 @@ Um aus Daten in Tabellen Muster erkennen zu können ist es hilfreich, sie zu plo
 ![[assets/Pasted image 20220906131246.png]]
 
 ![[assets/Pasted image 20220906131345.png]]
+
 ![[assets/Pasted image 20220906131522.png]]
 
 Es lässt sich erkennen, dass die Messwerte im t-s-Diagramm näherungsweise quadratisch verlaufen, eine Funktion 
@@ -79,4 +80,13 @@ mit einem passenden Wert für $k$, in der Lage ist, den Verlauf der Messwerte zu
 
 Dimensionsüberlegungen führen uns für die Einheit von $k$ zu $\frac{m}{s^2}$ , da $s(t)$ die Einheit $m$ und $t^2$ die Einheit $s^2$ hat.
 
-@TODO
+Die Beschleunigung $a$ der Bewegung können wir im t-v-Diagramm als Steigung der Geraden erkennen (Erinnerung: Beschleunigung ist die Änderung der Geschwindigkeit pro Zeiteinheit). Da $k$ und $a$ die gleiche Dimension (und Einheit) hat, lohnt sich ein Vergleich:
+
+Der Faktor $k$ sieht ungefähr halb so groß aus, wie die Beschleunigung $a$. 
+
+> **These:**
+> Für die Bewegungsgleichung der geradlinigen gleichförmig mit konstanter Beschleunigung gilt:
+> $$
+ s(t)= \frac12 a t^2
+ $$
+ >**Dies gilt es mit einem besseren Experiment erneut zu überprüfen!**
