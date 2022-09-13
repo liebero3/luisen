@@ -10,14 +10,15 @@ tags:
 ---
 
 ## Experiment
-Fall einer Stahlkugel, eines Papiers und eines zusammengeknüllten Papiers:
+Fall einer Stahlkugel, eines Papiers und eines zusammengeknüllten Papiers
 
 ## Beobachtung
-
+- Stahlkugel fällt deutlich schneller als das Blatt Papier.
+- Zusammengeknülltes Papier fällt ebenso schnell wie die Stahlkugel
 
 
 ## These
-
+Es scheint weniger an der Masse der Objekte, als an der Form (Luftwiderstand) zu liegen, wie schnell sie fallen.
 
 ## Experiment
 Freier Fall einer Feder und einer Stahlkugel bei normalem Luftdruck und im (fast)Vakuum:
@@ -40,9 +41,12 @@ Freier Fall einer Feder und einer Stahlkugel bei normalem Luftdruck und im (fast
 Hier sind vier Aufgaben aus den bisher behandelten Themen:
 
 1. Ein Fahrzeug bewegt sich auf gerader Strecke für 20 s mit einer Geschwindigkeit von 20 m/s. Nach 10 s Pause fährt es für 30 s mit einer Geschwindigkeit von 40 m/s weiter. Anschließend bewegt es sich mit 25 m/s zum Startpunkt zurück.
-		a) Ermitteln Sie die Dauer der Rückfahrt
-		b) Zeichnen Sie das Zeit-Geschwindigkeits-Diagramm
-		c) Zeichen Sie das Zeit-Weg-Diagramm
+
+	a) Ermitteln Sie die Dauer der Rückfahrt
+
+	b) Zeichnen Sie das Zeit-Geschwindigkeits-Diagramm
+	
+	c) Zeichen Sie das Zeit-Weg-Diagramm
 
 2. Ordnen Sie den Zeit-Weg-Diagrammen einer geradlinigen Bewegung die passenden Zeit-Geschwindigkeits-Diagramme zu.
 	Begründen Sie ihre Antworten.
@@ -51,8 +55,12 @@ Hier sind vier Aufgaben aus den bisher behandelten Themen:
 	
 3. Eine Person fährt eine 12 km lange Strecke mit dem Rad konstant mit einer Geschwindigkeit von 16 km/h. Berechnen Sie die Geschwindigkeit für den gleich langen Rückweg, wenn die gesamte Radtour zwei Stunden dauern soll.
 
-4. Ein Bob hat vom Start an die gleichbleibende Beschleunigugn von 2 $\frac{m}{s^2}$. Berechnen Sie
-		a) seine Geschwindigkeit 5 s nach dem Start;
-		b) den bis zu diesem Zeitpunkt zurückgelegten Weg;
-		c) seine Durchschnittsgeschwindigkeit auf diesem Weg;
-		d) den zurückgelegten Weg, wenn seine Geschwindigkeit auf 20 m/s angewachsen ist.
+4. Ein Bob hat vom Start an die gleichbleibende Beschleunigung von 2 $\frac{m}{s^2}$. Berechnen Sie
+
+	a) seine Geschwindigkeit 5 s nach dem Start;
+	
+	b) den bis zu diesem Zeitpunkt zurückgelegten Weg;
+	
+	c) seine Durchschnittsgeschwindigkeit auf diesem Weg;
+	
+	d) den zurückgelegten Weg, wenn seine Geschwindigkeit auf 20 m/s angewachsen ist.
