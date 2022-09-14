@@ -44,7 +44,7 @@ Zwei Geraden sind identisch, wenn sie parallel sind **und** der Stützvektor ein
 $$
 >oder analog:
 >Existiert ein $t$, so dass gilt:
->>$$
+>$$
 \vec{u}=\vec{l}+t\cdot\vec{m}
 $$
 
@@ -53,7 +53,7 @@ Zwei Gerade schneiden sich, wenn ihre Richtungsvektoren **nicht** kollinear sind
 
 >**Mathematisch zu überprüfen ist:**
 >Existieren $s$ und $t$, so dass gilt:
->>$$
+>$$
 \vec{l}+t\cdot\vec{m}=\vec{u}+s\cdot\vec{v}
 $$
 
