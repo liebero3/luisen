@@ -18,9 +18,12 @@ tags:
 ## Sicherung
 Zwei Geraden $g$ und $h$ mit
 $$
-\displaylines{g:\vec{u}+s\cdot\vec{v}\\
-g:\vec{l}+t\cdot\vec{m}}
+g:\vec{u}+s\cdot\vec{v}
 $$
+$$
+h:\vec{l}+t\cdot\vec{m}
+$$
+
 können die folgenden Lagebeziehungen zueinander haben:
 
 ### parallel
