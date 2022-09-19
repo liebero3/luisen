@@ -24,7 +24,7 @@ Bei Messungen zur gleichförmigen Bewegung hatten wir bspw. plötzlich ein Absol
 $$
 s(t)=v\cdot t + s_0
 $$
-Wo kommt das her und was bedeutet es? Hierfür schauen wir uns diese beiden Diagramme an:
+Wo kommt das her und was bedeutet es? Hierfür schauen wir uns diese beiden Diagramme an: (*Moodle - Die Bewegungsgleichungen Aufgabe 1*)
 
 ![[assets/PH-EF-2223-bewegungsgleichungen 20220918-182925.excalidraw.svg]]
 <!-- %%[[assets/PH-EF-2223-bewegungsgleichungen 20220918-182925.excalidraw.md|🖋 Edit in Excalidraw]], and the [[assets/PH-EF-2223-bewegungsgleichungen 20220918-182925.excalidraw.dark.svg|dark exported image]]%% -->
@@ -38,13 +38,10 @@ $$
 
 1. Was bedeutet es für den Graph einer quadratischen Funktion, wenn sie nicht nur der Form $s(t)=4,9\cdot t^2$ ist, sondern noch ein lineares und ein absolutes Glied besitzt?
 
-Was das nun real (oder geometrisch) bedeutet, wollen wir uns im folgenden verdeutlichen:
+Was das nun real (oder geometrisch) bedeutet, wollen wir uns im folgenden verdeutlichen: (*Moodle - Die Bewegungsgleichungen Aufgabe 2*)
 
 ![[assets/PH-EF-2223-bewegungsgleichungen 20220918-183814.excalidraw.svg]]
 <!-- %%[[assets/PH-EF-2223-bewegungsgleichungen 20220918-183814.excalidraw.md|🖋 Edit in Excalidraw]], and the [[assets/PH-EF-2223-bewegungsgleichungen 20220918-183814.excalidraw.dark.svg|dark exported image]]%% -->
 
 ## Sicherung
-
-
->**Merke:**
->
+Die Sicherung wird euch nach der Abgabe der Aufgaben in Moodle freigeschaltet.
