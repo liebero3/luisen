@@ -31,6 +31,9 @@ Wo kommt das her und was bedeutet es? Hierfür schauen wir uns diese beiden Diag
 ![[assets/PH-EF-2223-bewegungsgleichungen 20220918-182925.excalidraw.svg]]
 <!-- %%[[assets/PH-EF-2223-bewegungsgleichungen 20220918-182925.excalidraw.md|🖋 Edit in Excalidraw]], and the [[assets/PH-EF-2223-bewegungsgleichungen 20220918-182925.excalidraw.dark.svg|dark exported image]]%% -->
 
+<!-- [[private/lösungen/PH-EF-2223-bewegungsgleichungen-loesungA1]] -->
+
+
 Bei den Messungen zur gleichmäßig beschleunigten Bewegung hatten wir sogar nicht nur ein Absolutglied, sondern sogar einen linearen Term zusätzlich noch:
 
 $$
@@ -46,6 +49,8 @@ Was das nun real (oder geometrisch) bedeutet, wollen wir uns im folgenden verdeu
 
 ![[assets/PH-EF-2223-bewegungsgleichungen 20220918-183814.excalidraw.svg]]
 <!-- %%[[assets/PH-EF-2223-bewegungsgleichungen 20220918-183814.excalidraw.md|🖋 Edit in Excalidraw]], and the [[assets/PH-EF-2223-bewegungsgleichungen 20220918-183814.excalidraw.dark.svg|dark exported image]]%% -->
+
+<!-- [[private/PH-EF-2223-bewegungsgleichungen-loesungA2]] -->
 
 ## Sicherung
 @TODO

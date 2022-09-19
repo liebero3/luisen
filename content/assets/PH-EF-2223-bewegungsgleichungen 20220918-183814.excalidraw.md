@@ -11,9 +11,7 @@ tags: [excalidraw]
 1. Beschreibt die Bewegungen, die in den folgenden t-v-Diagrammen beschrieben
  werden
 
-2. Skizziert die t-s-Diagramme der 3 Bewegungen
-
-3. Erstellt stückweise Bewegungsgleichungen für die Bewegungen. (Für die durch
+2. Erstellt stückweise Bewegungsgleichungen für die Bewegungen. (Für die durch
  die grünen Punkte abgetrennten Intervalle) ^a2zXM6t8
 
 %%
@@ -26,8 +24,8 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "text",
-			"version": 423,
-			"versionNonce": 722915847,
+			"version": 424,
+			"versionNonce": 2006052411,
 			"isDeleted": false,
 			"id": "a2zXM6t8",
 			"fillStyle": "hachure",
@@ -40,24 +38,24 @@ tags: [excalidraw]
 			"y": -580,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1087,
-			"height": 249,
+			"width": 1088,
+			"height": 178,
 			"seed": 2065634753,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1663519857804,
+			"updated": 1663583884010,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
-			"text": "1. Beschreibt die Bewegungen, die in den folgenden t-v-Diagrammen beschrieben\n werden\n\n2. Skizziert die t-s-Diagramme der 3 Bewegungen\n\n3. Erstellt stückweise Bewegungsgleichungen für die Bewegungen. (Für die durch\n die grünen Punkte abgetrennten Intervalle)",
-			"rawText": "1. Beschreibt die Bewegungen, die in den folgenden t-v-Diagrammen beschrieben\n werden\n\n2. Skizziert die t-s-Diagramme der 3 Bewegungen\n\n3. Erstellt stückweise Bewegungsgleichungen für die Bewegungen. (Für die durch\n die grünen Punkte abgetrennten Intervalle)",
-			"baseline": 238,
+			"text": "1. Beschreibt die Bewegungen, die in den folgenden t-v-Diagrammen beschrieben\n werden\n\n2. Erstellt stückweise Bewegungsgleichungen für die Bewegungen. (Für die durch\n die grünen Punkte abgetrennten Intervalle)",
+			"rawText": "1. Beschreibt die Bewegungen, die in den folgenden t-v-Diagrammen beschrieben\n werden\n\n2. Erstellt stückweise Bewegungsgleichungen für die Bewegungen. (Für die durch\n die grünen Punkte abgetrennten Intervalle)",
+			"baseline": 167,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "1. Beschreibt die Bewegungen, die in den folgenden t-v-Diagrammen beschrieben\n werden\n\n2. Skizziert die t-s-Diagramme der 3 Bewegungen\n\n3. Erstellt stückweise Bewegungsgleichungen für die Bewegungen. (Für die durch\n die grünen Punkte abgetrennten Intervalle)"
+			"originalText": "1. Beschreibt die Bewegungen, die in den folgenden t-v-Diagrammen beschrieben\n werden\n\n2. Erstellt stückweise Bewegungsgleichungen für die Bewegungen. (Für die durch\n die grünen Punkte abgetrennten Intervalle)"
 		},
 		{
 			"type": "freedraw",

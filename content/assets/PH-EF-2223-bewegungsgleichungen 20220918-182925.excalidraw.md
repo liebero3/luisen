@@ -9,7 +9,9 @@ tags: [excalidraw]
 
 # Text Elements
 1. Wie sähen Funktionsgleichungen für diese beiden Graphen aus?
-2. Wie lassen sich die obigen Diagramme erklären? ^q11SBWWB
+2. Wie lassen sich die obigen Diagramme erklären?
+(physikalisch, also "wie bewegt sich ein Objekt, dessen Bewegung
+mit einem der obigen Diagramme beschrieben werden kann") ^q11SBWWB
 
 %%
 # Drawing
@@ -20,27 +22,27 @@ tags: [excalidraw]
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
-			"id": "aT1gOUYX2me8fo-dLjC0_",
 			"type": "freedraw",
-			"x": -499.5,
-			"y": -352.5,
-			"width": 8.5,
-			"height": 278,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 84,
+			"versionNonce": 1411787866,
+			"isDeleted": false,
+			"id": "aT1gOUYX2me8fo-dLjC0_",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -499.5,
+			"y": -352.5,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 8.5,
+			"height": 278,
+			"seed": 2068108742,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2068108742,
-			"version": 84,
-			"versionNonce": 1411787866,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1663518591575,
 			"link": null,
 			"locked": false,
@@ -378,6 +380,8 @@ tags: [excalidraw]
 					278
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0224609375,
 				0.0244140625,
@@ -462,35 +466,30 @@ tags: [excalidraw]
 				0.0849609375,
 				0.03515625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-8,
-				278
 			]
 		},
 		{
-			"id": "7jQni5xQ0sG9cDFi77lE8",
 			"type": "freedraw",
-			"x": -510,
-			"y": -339.5,
-			"width": 16,
-			"height": 21.5,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 1224562458,
+			"isDeleted": false,
+			"id": "7jQni5xQ0sG9cDFi77lE8",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -510,
+			"y": -339.5,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 16,
+			"height": 21.5,
+			"seed": 165994054,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 165994054,
-			"version": 18,
-			"versionNonce": 1224562458,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1663518592780,
 			"link": null,
 			"locked": false,
@@ -564,6 +563,8 @@ tags: [excalidraw]
 					4.5
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0224609375,
 				0.0244140625,
@@ -582,35 +583,30 @@ tags: [excalidraw]
 				0.232421875,
 				0.095703125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				16,
-				4.5
 			]
 		},
 		{
-			"id": "HDfUDUEypcCrYJtznj_ya",
 			"type": "freedraw",
-			"x": -523,
-			"y": -104,
-			"width": 323,
-			"height": 5.5,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 133,
+			"versionNonce": 366601734,
+			"isDeleted": false,
+			"id": "HDfUDUEypcCrYJtznj_ya",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -523,
+			"y": -104,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 323,
+			"height": 5.5,
+			"seed": 1366998918,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1366998918,
-			"version": 133,
-			"versionNonce": 366601734,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1663518596316,
 			"link": null,
 			"locked": false,
@@ -1144,6 +1140,8 @@ tags: [excalidraw]
 					3.5
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0322265625,
 				0.052734375,
@@ -1277,35 +1275,30 @@ tags: [excalidraw]
 				0.1962890625,
 				0.0673828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				323,
-				3.5
 			]
 		},
 		{
-			"id": "EIv880758FY3Qe9HaaKlb",
 			"type": "freedraw",
-			"x": -203,
-			"y": -108,
-			"width": 9,
-			"height": 16.5,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 110270938,
+			"isDeleted": false,
+			"id": "EIv880758FY3Qe9HaaKlb",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -203,
+			"y": -108,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 9,
+			"height": 16.5,
+			"seed": 967042394,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 967042394,
-			"version": 13,
-			"versionNonce": 110270938,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1663518597431,
 			"link": null,
 			"locked": false,
@@ -1359,6 +1352,8 @@ tags: [excalidraw]
 					16.5
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.12890625,
 				0.2412109375,
@@ -1372,35 +1367,30 @@ tags: [excalidraw]
 				0.3017578125,
 				0.10546875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				3.5,
-				16.5
 			]
 		},
 		{
-			"id": "hl89-84QvJecGptUttS9a",
 			"type": "freedraw",
-			"x": -218,
-			"y": -63,
-			"width": 13.5,
-			"height": 24,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 123101894,
+			"isDeleted": false,
+			"id": "hl89-84QvJecGptUttS9a",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -218,
+			"y": -63,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 13.5,
+			"height": 24,
+			"seed": 1423968454,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1423968454,
-			"version": 17,
-			"versionNonce": 123101894,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1663518599431,
 			"link": null,
 			"locked": false,
@@ -1470,6 +1460,8 @@ tags: [excalidraw]
 					17.5
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0517578125,
 				0.078125,
@@ -1487,35 +1479,30 @@ tags: [excalidraw]
 				0.2822265625,
 				0.103515625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7,
-				17.5
 			]
 		},
 		{
-			"id": "Qop0aKiDdA_XEZgJaG8PV",
 			"type": "freedraw",
-			"x": -229,
-			"y": -51.5,
-			"width": 17,
-			"height": 3,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1457645318,
+			"isDeleted": false,
+			"id": "Qop0aKiDdA_XEZgJaG8PV",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -229,
+			"y": -51.5,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 17,
+			"height": 3,
+			"seed": 164271258,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 164271258,
-			"version": 10,
-			"versionNonce": 1457645318,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1663518599946,
 			"link": null,
 			"locked": false,
@@ -1557,6 +1544,8 @@ tags: [excalidraw]
 					-3
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.025390625,
 				0.037109375,
@@ -1567,35 +1556,30 @@ tags: [excalidraw]
 				0.1640625,
 				0.0673828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				17,
-				-3
 			]
 		},
 		{
-			"id": "7rPxjh23LadRW6i73OcH6",
 			"type": "freedraw",
-			"x": -517,
-			"y": -331,
-			"width": 10.5,
-			"height": 17,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 1365155610,
+			"isDeleted": false,
+			"id": "7rPxjh23LadRW6i73OcH6",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -517,
+			"y": -331,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 10.5,
+			"height": 17,
+			"seed": 1842902106,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1842902106,
-			"version": 19,
-			"versionNonce": 1365155610,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1663518601450,
 			"link": null,
 			"locked": false,
@@ -1673,6 +1657,8 @@ tags: [excalidraw]
 					15.5
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0380859375,
 				0.083984375,
@@ -1692,35 +1678,30 @@ tags: [excalidraw]
 				0.30859375,
 				0.2177734375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-10,
-				15.5
 			]
 		},
 		{
-			"id": "AKqfbBDnMlVyGZqEhZtQk",
 			"type": "freedraw",
-			"x": -506.5,
-			"y": -157.5,
-			"width": 291.5,
-			"height": 201,
-			"angle": 0,
-			"strokeColor": "#087f5b",
-			"backgroundColor": "transparent",
+			"version": 61,
+			"versionNonce": 1186097414,
+			"isDeleted": false,
+			"id": "AKqfbBDnMlVyGZqEhZtQk",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -506.5,
+			"y": -157.5,
+			"strokeColor": "#087f5b",
+			"backgroundColor": "transparent",
+			"width": 291.5,
+			"height": 201,
+			"seed": 1890711430,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1890711430,
-			"version": 61,
-			"versionNonce": 1186097414,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1663518609530,
 			"link": null,
 			"locked": false,
@@ -1966,6 +1947,8 @@ tags: [excalidraw]
 					-201
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.033203125,
 				0.0537109375,
@@ -2027,11 +2010,6 @@ tags: [excalidraw]
 				0.2041015625,
 				0.08203125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				291.5,
-				-201
 			]
 		},
 		{
@@ -3694,27 +3672,27 @@ tags: [excalidraw]
 			]
 		},
 		{
-			"id": "B5gU3RfEnRP5aYtc1DdGD",
 			"type": "freedraw",
-			"x": 46,
-			"y": -321.5,
-			"width": 278,
-			"height": 224,
-			"angle": 0,
-			"strokeColor": "#087f5b",
-			"backgroundColor": "transparent",
+			"version": 66,
+			"versionNonce": 269181850,
+			"isDeleted": false,
+			"id": "B5gU3RfEnRP5aYtc1DdGD",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 46,
+			"y": -321.5,
+			"strokeColor": "#087f5b",
+			"backgroundColor": "transparent",
+			"width": 278,
+			"height": 224,
+			"seed": 2109520838,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2109520838,
-			"version": 66,
-			"versionNonce": 269181850,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1663518634046,
 			"link": null,
 			"locked": false,
@@ -3980,6 +3958,8 @@ tags: [excalidraw]
 					224
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0224609375,
 				0.1220703125,
@@ -4046,379 +4026,42 @@ tags: [excalidraw]
 				0.2783203125,
 				0.2783203125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				278,
-				224
 			]
 		},
 		{
-			"id": "q11SBWWB",
 			"type": "text",
+			"version": 140,
+			"versionNonce": 1257447075,
+			"isDeleted": false,
+			"id": "q11SBWWB",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": -507,
 			"y": -4,
-			"width": 872,
-			"height": 71,
-			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"width": 873,
+			"height": 142,
+			"seed": 1390438982,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 1390438982,
-			"version": 136,
-			"versionNonce": 302255750,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1663518718408,
+			"boundElements": [],
+			"updated": 1663578446764,
 			"link": null,
 			"locked": false,
-			"text": "1. Wie sähen Funktionsgleichungen für diese beiden Graphen aus?\n2. Wie lassen sich die obigen Diagramme erklären?",
-			"rawText": "1. Wie sähen Funktionsgleichungen für diese beiden Graphen aus?\n2. Wie lassen sich die obigen Diagramme erklären?",
 			"fontSize": 28,
 			"fontFamily": 1,
+			"text": "1. Wie sähen Funktionsgleichungen für diese beiden Graphen aus?\n2. Wie lassen sich die obigen Diagramme erklären?\n(physikalisch, also \"wie bewegt sich ein Objekt, dessen Bewegung\nmit einem der obigen Diagramme beschrieben werden kann\")",
+			"rawText": "1. Wie sähen Funktionsgleichungen für diese beiden Graphen aus?\n2. Wie lassen sich die obigen Diagramme erklären?\n(physikalisch, also \"wie bewegt sich ein Objekt, dessen Bewegung\nmit einem der obigen Diagramme beschrieben werden kann\")",
+			"baseline": 132,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 61,
 			"containerId": null,
-			"originalText": "1. Wie sähen Funktionsgleichungen für diese beiden Graphen aus?\n2. Wie lassen sich die obigen Diagramme erklären?"
-		},
-		{
-			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1816803034,
-			"isDeleted": true,
-			"id": "7IYOFFsj9NjYl-zYRSbh9",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 40.5,
-			"y": -159,
-			"strokeColor": "#087f5b",
-			"backgroundColor": "transparent",
-			"width": 291.5,
-			"height": 201,
-			"seed": 589997914,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1663518625343,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-0.5
-				],
-				[
-					0.5,
-					-0.5
-				],
-				[
-					0.5,
-					-1
-				],
-				[
-					1.5,
-					-1.5
-				],
-				[
-					3,
-					-2.5
-				],
-				[
-					6,
-					-4.5
-				],
-				[
-					8,
-					-6
-				],
-				[
-					10,
-					-8
-				],
-				[
-					13,
-					-10
-				],
-				[
-					17,
-					-13.5
-				],
-				[
-					21.5,
-					-17
-				],
-				[
-					26,
-					-20
-				],
-				[
-					30,
-					-23.5
-				],
-				[
-					33,
-					-26
-				],
-				[
-					38,
-					-30
-				],
-				[
-					41,
-					-32.5
-				],
-				[
-					44,
-					-34
-				],
-				[
-					47,
-					-36
-				],
-				[
-					50.5,
-					-38.5
-				],
-				[
-					53,
-					-41
-				],
-				[
-					56,
-					-43.5
-				],
-				[
-					59,
-					-46
-				],
-				[
-					63.5,
-					-49
-				],
-				[
-					67.5,
-					-51
-				],
-				[
-					73,
-					-55.5
-				],
-				[
-					78,
-					-58
-				],
-				[
-					82.5,
-					-62
-				],
-				[
-					90.5,
-					-67
-				],
-				[
-					95,
-					-70.5
-				],
-				[
-					100.5,
-					-74
-				],
-				[
-					107,
-					-78
-				],
-				[
-					113,
-					-82.5
-				],
-				[
-					123.5,
-					-89
-				],
-				[
-					131,
-					-93.5
-				],
-				[
-					138,
-					-98
-				],
-				[
-					149.5,
-					-105.5
-				],
-				[
-					157,
-					-110.5
-				],
-				[
-					165.5,
-					-116
-				],
-				[
-					174,
-					-122
-				],
-				[
-					182,
-					-128
-				],
-				[
-					198,
-					-138.5
-				],
-				[
-					205.5,
-					-144
-				],
-				[
-					209.5,
-					-146.5
-				],
-				[
-					217,
-					-152
-				],
-				[
-					224,
-					-156.5
-				],
-				[
-					234.5,
-					-164
-				],
-				[
-					241,
-					-169
-				],
-				[
-					250.5,
-					-175.5
-				],
-				[
-					254,
-					-177.5
-				],
-				[
-					260,
-					-181.5
-				],
-				[
-					271.5,
-					-189.5
-				],
-				[
-					277,
-					-192.5
-				],
-				[
-					281,
-					-195
-				],
-				[
-					284,
-					-196.5
-				],
-				[
-					288,
-					-199
-				],
-				[
-					290,
-					-200.5
-				],
-				[
-					291,
-					-201
-				],
-				[
-					291.5,
-					-201
-				],
-				[
-					291.5,
-					-201
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": false,
-			"pressures": [
-				0.033203125,
-				0.0537109375,
-				0.1201171875,
-				0.1279296875,
-				0.146484375,
-				0.1669921875,
-				0.1982421875,
-				0.2177734375,
-				0.234375,
-				0.251953125,
-				0.2685546875,
-				0.2841796875,
-				0.296875,
-				0.3076171875,
-				0.3154296875,
-				0.3212890625,
-				0.3271484375,
-				0.333984375,
-				0.3388671875,
-				0.3388671875,
-				0.33203125,
-				0.3193359375,
-				0.3125,
-				0.30859375,
-				0.30859375,
-				0.302734375,
-				0.2958984375,
-				0.2939453125,
-				0.2919921875,
-				0.2900390625,
-				0.2900390625,
-				0.2900390625,
-				0.2900390625,
-				0.2900390625,
-				0.2900390625,
-				0.2939453125,
-				0.3017578125,
-				0.310546875,
-				0.314453125,
-				0.3232421875,
-				0.32421875,
-				0.32421875,
-				0.32421875,
-				0.32421875,
-				0.32421875,
-				0.32421875,
-				0.3173828125,
-				0.3125,
-				0.30859375,
-				0.30859375,
-				0.2958984375,
-				0.25,
-				0.2275390625,
-				0.21484375,
-				0.2109375,
-				0.2080078125,
-				0.2060546875,
-				0.2041015625,
-				0.08203125,
-				0
-			]
+			"originalText": "1. Wie sähen Funktionsgleichungen für diese beiden Graphen aus?\n2. Wie lassen sich die obigen Diagramme erklären?\n(physikalisch, also \"wie bewegt sich ein Objekt, dessen Bewegung\nmit einem der obigen Diagramme beschrieben werden kann\")"
 		}
 	],
 	"appState": {
