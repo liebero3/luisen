@@ -73,6 +73,7 @@ Um dies bei der Erstellung von Dokumenten erreichen zu können, muss es möglich
 #### Collabora Office
 @TODO
 #### Einfache Textdatei (mit Markdown)
+@TODO
 ## Kalender
 ### Eigenen Kalender erstellen
 ### Kalender per CalDAV abonnieren
