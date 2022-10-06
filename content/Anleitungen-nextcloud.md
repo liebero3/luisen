@@ -71,6 +71,7 @@ Wurde eine Datei (oder Ordner) erfolgreich innerhalb über eine Link-Freigabe ge
 Um dies bei der Erstellung von Dokumenten erreichen zu können, muss es möglich sein gleichzeitig an unterschiedlichen Stellen innerhalb eines Dokuments arbeiten zu können. Wir verwenden hierfür für ganz einfach Arbeiten den Texteditor von Nextcloud selbst oder Collabora Office.
 
 #### Collabora Office
+@TODO
 #### Einfache Textdatei (mit Markdown)
 ## Kalender
 ### Eigenen Kalender erstellen
