@@ -1,6 +1,6 @@
 ---
 title: "Die Nextcloud"
-date: "2022-09-06"
+date: "2022-10-06"
 tags:
 - nextcloud
 - anleitung
@@ -77,6 +77,7 @@ Um dies bei der Erstellung von Dokumenten erreichen zu können, muss es möglich
 ## Kalender
 @TODO
 ### Eigenen Kalender erstellen
+@TODO
 ### Kalender per CalDAV abonnieren
 #### iOS
 #### Android
