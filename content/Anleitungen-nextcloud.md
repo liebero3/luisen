@@ -64,7 +64,12 @@ Wurde eine Datei (oder Ordner) erfolgreich innerhalb über eine Link-Freigabe ge
 ![[assets/Pasted image 20221006095235.png]]
 
 ### kollaboratives arbeiten
-@TODO
+**Definition:**
+
+>Kollaboratives Arbeiten meint eine spezielle Form der Zusammenarbeit innerhalb eines Teams. Üblicherweise ist es so, dass Teams gemeinsam auf ein Ziel hinarbeiten, die Team-Mitglieder aber meist einzelne Aufgaben übernehmen und eher nebeneinander als gemeinsam arbeiten.
+
+Um dies bei der Erstellung von Dokumenten erreichen zu können, muss es möglich sein gleichzeitig an unterschiedlichen Stellen innerhalb eines Dokuments arbeiten zu können. Wir verwenden hierfür für ganz einfach Arbeiten den Texteditor von Nextcloud selbst oder Collabora Office.
+
 #### Collabora Office
 #### Einfache Textdatei (mit Markdown)
 ## Kalender
