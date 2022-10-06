@@ -63,7 +63,7 @@ Nachdem dieser erstellt wurde kann man über das "drei Punkt"-Symbol neben dem "
 Wurde eine Datei (oder Ordner) erfolgreich innerhalb über eine Link-Freigabe geteilt, so sieht man im Anschluss (meistens erst nach einem Reload der Seite), dass anstatt des "Teilen"-Symbols nun ein "Link"-Symbol erscheint und rechts davon nun ein "Geteilt" steht.
 ![[assets/Pasted image 20221006095235.png]]
 
-### kooperativ arbeiten
+### kollaboratives arbeiten
 @TODO
 #### Collabora Office
 #### Einfache Textdatei (mit Markdown)
