@@ -73,11 +73,20 @@ Um dies bei der Erstellung von Dokumenten erreichen zu können, muss es möglich
 #### Collabora Office
 @TODO
 #### Einfache Textdatei (mit Markdown)
-@TODO
+In den  normalen Textdateien von Nextcloud kann ebenfalls kollaborativ gearbeitet werden. Sobald eine Textdatei mit anderen Usern geteilt wurde
+##### Markdown
+Markdown ist eine vereinfachte Auszeichnungssprache, die zum heutigen Stand im universitären Bereich die am meisten zu empfehlende Variante zur Erstellung wissenschaftlicher Arbeiten ist, da sie das Prinzip der Entkoppelung von Style und Content sehr gut umsetzt. Zusätzlich ist das Arbeiten mit Quellen extrem gut. Insbesondere in der Oberstufe sollte es stark empfohlen werden.
+
+Unter dem folgenden Link ist eine sehr gute Übersicht der Befehle:
+
+[Markdown Befehle](https://elvis.inf.tu-dresden.de/wiki/index.php/Markdown_-_Eine_%C3%9Cbersicht)
+
+Im Texteditor von Nextcloud sind aber auch Buttons für die einzelnen Auszeichnungen vorhanden.
+
+@TODO Erklärung zum workflow beim kollaborativen Arbeiten mit Screenshot
+
 ## Kalender
-@TODO
 ### Eigenen Kalender erstellen
-@TODO
 ### Kalender per CalDAV abonnieren
 #### iOS
 #### Android
